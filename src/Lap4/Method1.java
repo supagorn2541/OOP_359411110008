@@ -1,5 +1,4 @@
 package Lap4;
-
 public class Method1 {
     public static void main(String[] args) {
         System.out.println("Hello from Main method.");
@@ -13,9 +12,9 @@ public class Method1 {
         //2.กรณีที่ไม่ต้องการเก็บค่าที่ส่งมาจากเมธอด สามารถแสดงค่าข้อมูลนั้นด้วยคำสั่ง print()หรือ printlin()ได้เลย
         System.out.println(C("Supagorn","Tongduk"));
     }
-
     //Method type 1:no parameter, no retrun value
     public static void A(){
+
         System.out.println("Hello from A method.");
     }
     //Method type2: 1 or more parameters, no retrun value

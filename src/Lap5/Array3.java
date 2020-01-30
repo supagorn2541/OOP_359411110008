@@ -1,6 +1,4 @@
 package Lap5;
-
-
 import java.util.Scanner;
 
 public class Array3 {
@@ -28,7 +26,6 @@ public class Array3 {
         }
         showDataArray2D(x);
     }
-
     private static void showDataArray2D(int[][] x) {
         System.out.println();
         for (int i = 0; i < x.length; i++) {

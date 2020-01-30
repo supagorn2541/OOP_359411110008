@@ -17,13 +17,11 @@ public class Method2 {
         
         double a=minus(x,y);
         System.out.println(x+"-"+y+"="+a);
-
         double b=multiple(x,y);
         System.out.println(x+"*"+y+"="+b);
 
         double c=devide(x,y);
         System.out.println(x+"/"+y+"="+c);
-        
     }
 
     private static double devide(double x, double y) {

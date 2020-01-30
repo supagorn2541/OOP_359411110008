@@ -20,9 +20,7 @@ public class Array1 {
 
         showArray(x);
         showArrayEach(x);
-
     }
-
     private static void showArrayEach(int[] x) {
         System.out.print("Each data in array:");
         for (int val:x) {

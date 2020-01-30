@@ -6,14 +6,11 @@ public class Control2 {
     public static void main(String[] args) {
         //if-else : เลือกทำอย่างใดอย่างหนึ่ง (ถ้า-แล้ว)
         //โครงสร้าง if-else
-
-
 //        if(เงื่อนไข) {
 //            คำสั่งเมื่อ if เป็นจริง;
 //        }else{
 //            คำสั่งเมื่อ if เป็นเท็จ;
 //        }
-
         int x = 10;
         if ((x/2) > 5) {//T F
             System.out.println("x more than 5.");

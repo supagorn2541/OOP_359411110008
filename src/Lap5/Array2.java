@@ -14,6 +14,7 @@ public class Array2 {
         }
         showDataArray(x);
         //display data in array
+
     }
         private static void showDataArray ( int[] x){
             System.out.println("Data in array:");
